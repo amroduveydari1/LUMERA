@@ -1,0 +1,22 @@
+[
+  {
+    "id": "milano-01",
+    "slug": "milano-01",
+    "title": "Milano 01",
+    "shortLabel": "MILANO 01 COLLECTION",
+    "description": "Our debut collection explores the intersection of Italian rationalism and contemporary minimalism. A dialogue between architectural rigor and organic softness, crafted for the contemporary soul.",
+    "heroImage": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=2000",
+    "featuredProducts": ["m01-sofa", "m01-chair", "m01-table", "m01-sideboard"],
+    "status": "active"
+  },
+  {
+    "id": "atelier-02",
+    "slug": "atelier-02",
+    "title": "Atelier 02",
+    "shortLabel": "ATELIER 02 COLLECTION",
+    "description": "A forthcoming study in raw materiality and brutalist forms. Atelier 02 pushes the boundaries of traditional craftsmanship through experimental textures and bold silhouettes.",
+    "heroImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=2000",
+    "featuredProducts": [],
+    "status": "coming_soon"
+  }
+]

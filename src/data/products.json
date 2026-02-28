@@ -1,0 +1,234 @@
+[
+  {
+    "id": "m01-sofa",
+    "slug": "m01-sofa",
+    "name": "Milano 01 Sofa",
+    "category": "Seating",
+    "price": "€12,400",
+    "description": "A sculptural masterpiece defined by its continuous architectural silhouette. The Milano 01 sofa balances monumental presence with ethereal comfort.",
+    "dimensions": "W 280cm x D 110cm x H 68cm",
+    "materials": ["Italian Nubuck Leather", "Solid Walnut", "High-Density Foam"],
+    "image": "/images/products/Milano-01-Sofa.jpg",
+    "gallery": [
+      "/images/products/m01-sofa/01.jpg",
+      "/images/products/m01-sofa/02.jpg",
+      "/images/products/m01-sofa/03.jpg"
+    ],
+    "arEnabled": true,
+    "collection": "Milano 01",
+    "modelUrl": "/models/m01-sofa.glb"
+  },
+  {
+    "id": "m01-chair",
+    "slug": "m01-chair",
+    "name": "Luce Lounge Chair",
+    "category": "Seating",
+    "price": "€4,800",
+    "description": "An exploration of light and shadow. The Luce chair features a hand-polished champagne gold frame supporting a floating leather seat.",
+    "dimensions": "W 82cm x D 88cm x H 74cm",
+    "materials": ["Champagne Gold Steel", "Saddle Leather"],
+    "image": "/images/products/luce-lounge-chair.jpg",
+    "gallery": [
+      "/images/products/m01-chair/01.jpg",
+      "/images/products/m01-chair/02.jpg",
+      "/images/products/m01-chair/03.jpg"
+    ],
+    "arEnabled": true,
+    "collection": "Milano 01",
+    "modelUrl": "/models/m01-chair.glb"
+  },
+  {
+    "id": "m01-table",
+    "slug": "m01-table",
+    "name": "Orizon Dining Table",
+    "category": "Tables",
+    "price": "€18,900",
+    "description": "A monolithic slab of Travertine marble resting on a recessed architectural base. Designed to create a sense of grounded permanence.",
+    "dimensions": "L 320cm x W 120cm x H 75cm",
+    "materials": ["Silver Travertine", "Dark Oak"],
+    "image": "/images/products/orizon-dining-table.jpg",
+    "gallery": [
+      "/images/products/m01-table/01.jpg",
+      "/images/products/m01-table/02.jpg",
+      "/images/products/m01-table/03.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "m01-bed",
+    "slug": "m01-bed",
+    "name": "Sogno Bed",
+    "category": "Bedroom",
+    "price": "€14,200",
+    "description": "The Sogno bed is a sanctuary of silence. Its oversized upholstered headboard wraps around the sleeper, creating an intimate architectural space.",
+    "dimensions": "W 220cm x L 240cm x H 110cm",
+    "materials": ["Bouclé Fabric", "Brushed Brass"],
+    "image": "/images/products/sogno-bed.jpg",
+    "gallery": [
+      "/images/products/m01-bed/01.jpg",
+      "/images/products/m01-bed/02.jpg",
+      "/images/products/m01-bed/03.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "m01-pendant",
+    "slug": "m01-pendant",
+    "name": "Aura Pendant",
+    "category": "Lighting",
+    "price": "€3,200",
+    "description": "A floating ring of light. The Aura pendant uses advanced LED technology housed in a hand-brushed brass ring, creating a soft, celestial glow.",
+    "dimensions": "Ø 120cm x H 4cm",
+    "materials": ["Brushed Brass", "Opaline Glass"],
+    "image": "/images/products/aura-pendant.jpg",
+    "gallery": [
+      "/images/products/m01-pendant/01.jpg",
+      "/images/products/m01-pendant/02.jpg",
+      "/images/products/m01-pendant/03.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "m01-mirror",
+    "slug": "m01-mirror",
+    "name": "Eclisse Mirror",
+    "category": "Accessories",
+    "price": "€2,400",
+    "description": "A study of reflection and shadow. The Eclisse mirror features a dual-layered glass design with a smoked bronze perimeter.",
+    "dimensions": "Ø 100cm x D 6cm",
+    "materials": ["Smoked Bronze Glass", "Polished Steel"],
+    "image": "/images/products/eclisse-mirror.jpg",
+    "gallery": [
+      "/images/products/m01-mirror/01.jpg",
+      "/images/products/m01-mirror/02.jpg",
+      "/images/products/m01-mirror/03.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "m01-sideboard",
+    "slug": "m01-sideboard",
+    "name": "Stria Sideboard",
+    "category": "Storage",
+    "price": "€9,600",
+    "description": "Vertical rhythms in wood. The Stria sideboard features a fluted smoked oak exterior that conceals seamless push-to-open doors.",
+    "dimensions": "W 220cm x D 50cm x H 75cm",
+    "materials": ["Smoked Oak", "Blackened Steel"],
+    "image": "/images/products/stria-sideboard.jpg",
+    "gallery": [
+      "/images/products/m01-sideboard/01.jpg",
+      "/images/products/m01-sideboard/02.jpg",
+      "/images/products/m01-sideboard/03.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "vesper-lamp",
+    "slug": "vesper-lamp",
+    "name": "Vesper Floor Lamp",
+    "category": "Lighting",
+    "price": "€5,400",
+    "description": "A slender architectural column of light. The Vesper lamp features a hand-carved Alabaster base and a minimalist blackened steel stem.",
+    "dimensions": "Ø 30cm x H 165cm",
+    "materials": ["Spanish Alabaster", "Blackened Steel", "Silk Shade"],
+    "image": "/images/products/vesper-floor-lamp.jpg",
+    "gallery": [
+      "/images/products/vesper-lamp/01.jpg",
+      "/images/products/vesper-lamp/02.jpg"
+    ],
+    "arEnabled": true,
+    "collection": "Atelier 02"
+  },
+  {
+    "id": "stela-sculpture",
+    "slug": "stela-sculpture",
+    "name": "Stela Sculpture",
+    "category": "Objects",
+    "price": "€1,800",
+    "description": "A monolithic study in form. Hand-carved from a single block of volcanic stone, each piece is unique in its texture and presence.",
+    "dimensions": "W 20cm x D 15cm x H 45cm",
+    "materials": ["Volcanic Stone", "Bronze Base"],
+    "image": "/images/products/stela-sculpture.jpg",
+    "gallery": [
+      "/images/products/stela-sculpture/01.jpg",
+      "/images/products/stela-sculpture/02.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Atelier 02"
+  },
+  {
+    "id": "aria-armchair",
+    "slug": "aria-armchair",
+    "name": "Aria Armchair",
+    "category": "Chairs",
+    "price": "€6,200",
+    "description": "Ethereal lightness meets structural rigor. The Aria armchair features a suspended seat within a geometric oak frame.",
+    "dimensions": "W 85cm x D 90cm x H 72cm",
+    "materials": ["Solid Oak", "Cashmere Blend Upholstery"],
+    "image": "/images/products/aria-armchair.jpg",
+    "gallery": [
+      "/images/products/aria-armchair/01.jpg",
+      "/images/products/aria-armchair/02.jpg"
+    ],
+    "arEnabled": true,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "coda-coffee-table",
+    "slug": "coda-coffee-table",
+    "name": "Coda Coffee Table",
+    "category": "Tables",
+    "price": "€7,800",
+    "description": "A rhythmic dialogue of materials. The Coda table pairs a heavy marble top with a delicate, hand-forged iron base.",
+    "dimensions": "Ø 110cm x H 35cm",
+    "materials": ["Carrara Marble", "Hand-Forged Iron"],
+    "image": "/images/products/coda-coffee-table.jpg",
+    "gallery": [
+      "/images/products/coda-coffee-table/01.jpg",
+      "/images/products/coda-coffee-table/02.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "nuvola-sofa",
+    "slug": "nuvola-sofa",
+    "name": "Nuvola Modular Sofa",
+    "category": "Sofas",
+    "price": "€16,500",
+    "description": "Cloud-like comfort in a modular system. The Nuvola sofa allows for endless configurations, all maintaining a soft, organic silhouette.",
+    "dimensions": "Variable (Modular)",
+    "materials": ["Linen Weave", "Feather Down Filling"],
+    "image": "/images/products/nuvola-modular-sofa.jpg",
+    "gallery": [
+      "/images/products/nuvola-sofa/01.jpg",
+      "/images/products/nuvola-sofa/02.jpg",
+      "/images/products/nuvola-sofa/03.jpg"
+    ],
+    "arEnabled": true,
+    "collection": "Milano 01"
+  },
+  {
+    "id": "solis-sconce",
+    "slug": "solis-sconce",
+    "name": "Solis Wall Sconce",
+    "category": "Lighting",
+    "price": "€2,100",
+    "description": "A solar eclipse in light. The Solis sconce projects a soft halo of light against the wall, creating a dramatic architectural effect.",
+    "dimensions": "Ø 40cm x D 8cm",
+    "materials": ["Oxidized Copper", "Integrated LED"],
+    "image": "/images/products/solis-wall-sconce.jpg",
+    "gallery": [
+      "/images/products/solis-sconce/01.jpg",
+      "/images/products/solis-sconce/03.jpg",
+      "/images/products/solis-sconce/02.jpg"
+    ],
+    "arEnabled": false,
+    "collection": "Atelier 02"
+  }
+]
