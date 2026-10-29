@@ -23,6 +23,6 @@ npm run dev
 `src/pages/` holds product, collection, journal, and contact views. `src/components/` contains shared UI. `api/quote.ts` provides a quote-related API endpoint.
 
 ## Status
-A digital showroom concept, not a verified commerce platform. Quote handling, external integrations, and production configuration should be reviewed before handling real customer information.
+A digital showroom concept, Quote handling, external integrations, and production configuration should be reviewed before handling real customer information.
 
 Built by [Amro Duveydari](https://github.com/amroduveydari1).
